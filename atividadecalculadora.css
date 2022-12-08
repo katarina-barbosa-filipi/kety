@@ -1,0 +1,440 @@
+.bloco{
+        display: flex;
+        width: 450px;
+        height: 500px;
+
+       
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 28px;
+
+        /* border-style: dashed;
+        border-color: black; */
+
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+        
+        gap: 19px;
+}
+
+.bloco2{
+    width: 450px;
+    height: 116px;
+    display: flex;
+    
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+
+    flex-direction: column;
+    align-items: flex-end;
+
+
+
+}
+
+.resultado{
+    
+}
+.bloco3{
+    width: 450px;
+    height: 370px;
+    display: flex;
+
+    /* border-style: solid; 
+    border-color: crimson;*/
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    
+    
+    gap: 5px;
+    
+}
+
+.bloco3_0{
+    width: 400px;
+    height: 370px;
+    display: flex;
+   
+    /* border-style: solid; */
+    /* border-color: cyan; */
+
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+   
+    
+    gap: 2px;
+}
+
+
+.bloco3_0_0{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+.bloco3_0_1{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+.bloco3_0_2{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color:black;
+    border-width: 5px;
+}
+.bloco3_1{
+    width: 400px;
+    height: 370px;
+    display: flex;
+
+    /* border-style: solid; */
+    /* border-color:brown; */
+    
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+   
+    
+    gap: 2px;
+}
+.bloco3_1_0{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+.bloco3_1_1{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.bloco3_1_2{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.bloco3_2{
+    width: 400px;
+    height: 370px;
+    display: flex;
+
+    /* border-style: solid; */
+    /* border-color: chartreuse; */
+    
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+   
+    
+    gap: 2px;
+}
+
+.bloco3_2_0{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+.bloco3_2_1{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+.bloco3_2_2{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.bloco3_3{
+    width: 400px;
+    height: 370px;
+    display: flex;
+
+    /* border-style: solid; */
+    /* border-color:darkblue; */
+
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+   
+    
+    gap: 2px;
+}
+.bloco3_3_0{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color:black;
+    border-width: 5px;
+}
+.bloco3_3_1{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.bloco3_3_2{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.bloco3_3_3{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.bloco3_3_4{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}    
+.bloco3_3_5{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+p{
+   text-align: center;
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    font-weight: bold;
+}
+.um {
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dois{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.tres{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quatro{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cinco{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.seis{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sete{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.oito{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nove{
+    width: 100px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.adicao{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sub{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.div{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mul{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.igualdade{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.CE{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper { 
+    height: 100%;
+    width: 100%;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+  background: linear-gradient( #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3
+  );
+  background-size: 1800% 1800%;
+  
+  -webkit-animation: rainbow 18s ease infinite;
+  -z-animation: rainbow 18s ease infinite;
+  -o-animation: rainbow 18s ease infinite;
+    animation: rainbow 18s ease infinite;}
+  
+  @-webkit-keyframes rainbow {
+      0%{background-position:0% 82%}
+      50%{background-position:100% 19%}
+      100%{background-position:0% 82%}
+  }
+  @-moz-keyframes rainbow {
+      0%{background-position:0% 82%}
+      50%{background-position:100% 19%}
+      100%{background-position:0% 82%}
+  }
+  @-o-keyframes rainbow {
+      0%{background-position:0% 82%}
+      50%{background-position:100% 19%}
+      100%{background-position:0% 82%}
+  }
+  @keyframes rainbow { 
+      0%{background-position:0% 82%}
+      50%{background-position:100% 19%}
+      100%{background-position:0% 82%}
+  }
